@@ -1,12 +1,13 @@
-## Olá! Me chamo Leonardo Cirilo
+## Olá! Me chamo Leo 👋🏻
 
-- 🔭 Estou buscando por uma oportunidade em TI.
+- 🔭 Em busca de uma oportunidade no mundo do desenvolvimento de software.
 - 🧑🏻‍💻 Estudando Análise de Dados.
-- 📫 Contate-me no e-mail: leonardocf2005@gmail.com
 
----
+[![Linkedin Badge](https://img.shields.io/badge/in%20Leonardo%20Cirilo-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/leonardo-cirilo-feitosa)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:leonardocf2005@gmail.com) 
+<hr>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias
 
 <img 
     align="left" 
@@ -38,11 +39,8 @@
 
 ---
 
-### 📊 Linguagens mais utilizadas
-
-🟧 HTML: 40%  
-🟦 CSS: 30%  
-🟨 Python: 30%
-
-
-
+### 📊 Métricas
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoCF2005&show_icons=true&theme=swift&include_all_commits=true&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCF2005&layout=compact&langs_count=7&theme=swift" />
+</div>
